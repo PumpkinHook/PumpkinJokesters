@@ -13,8 +13,8 @@ return {
 			j_jokester_scrooge = {
 				name = "Scrooge",
 				text = {
-					'Retrigger {C:attention,E:1}all{} played',
-					'card used in scoring for',
+					'Retrigger {C:attention,E:1}all{} cards',
+					'used in scoring for',
 					'each {C:money}$#1#{} you have',
 					--'{C:inactive,s:0.8}(Currently #2# retiggers)'  --Fix Later Maybe
 				},	
@@ -47,7 +47,7 @@ return {
 			j_jokester_faceless = {
 				name = "Hole Joker",
 				text = {
-					"played face cards are destoryed.",
+					"Played {C:attention,E:1}Face cards{} are destoryed.",
 					"destoryed face cards give {X:mult,C:white} X#1# {} Mult",
 					"and {C:attention}$#2#{}",
 				},	
@@ -88,14 +88,14 @@ return {
 				},
 			},
 			j_jokester_sans3 = {
-				name = "sans",
+				name = "Sans",
 				text = {
 				'Judgement.',
 				'{X:mult,C:white}X#1#{} Mult',
 				},
 			},
 			j_jokester_battery = {
-				name = "AA Battery",
+				name = "Battery",
 				text = {
 				'{C:chips}+#1#{} Hands, {C:red}+#2#{} Discards',
 				'each round',

@@ -2,7 +2,7 @@ SMODS.Joker {
 	key = 'battery',
 	atlas = 'Jokerster_atlas', pos = {x = 3, y = 1},
 	config = {extra = {discard_size = 1, hands_size = 1,}},
-	rarity = 3,
+	rarity = 2,
 	cost = 5,
 	unlocked = false,
 	discovered = false,

@@ -4,6 +4,8 @@
 --- PREFIX: jokester
 --- MOD_AUTHOR: [PumpkinHook]
 --- MOD_DESCRIPTION: Glamour on the streets, Jimbo in the sheets.
+--- VERSION: 0.1.5
+
 
 ----------------------------------------------
 ------------MOD CODE -------------------------
