@@ -18,9 +18,9 @@ Requires [Steamodded](https://github.com/Steamodded/smods) & [Lovely](https://gi
 |The Imposter|Uncommon|X2 Mult, 1 in 10 chance card is destoryed at the end of the round|Wild|
 |Missing Texture|Uncommon|Gains +5 mult every 10 cards discarded|PumpkinHook|
 |Single Sight|Uncommon|if played hand is high card, retrigger 2 times and give X2 Mult|Wild|
+|Battery|Uncommon|+1 Hands, +1 Discards each round|Wild|
 |Scrooge|Rare|Retrigger all cards used in scoring for each $15 you have|Wild|
 |Hole Joker|Rare|Played Face cards are destoryed. Give X4 Mult and $10 for each destoryed Face Card|Wild|
-|Battery|Rare|+1 Hands, +1 Discards each round|Wild|
 |The Board|Rare|Every Negative card gives X3 Mult|Wild|
 |sans (Snowdin)|common|want to hear a joke?|Wild| 
 |sans (Hotlands)|common|want to hear a joke again?|Wild|
