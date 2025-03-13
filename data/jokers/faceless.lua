@@ -4,7 +4,7 @@ SMODS.Joker {
 	config = {extra = {faceMult = 4, faceCash = 10}}, 
 	rarity = 3,
 	cost = 8,
-	unlocked = false,
+	unlocked = true,
 	discovered = false,
 	blueprint_compat = false,
     eternal_compat = true,

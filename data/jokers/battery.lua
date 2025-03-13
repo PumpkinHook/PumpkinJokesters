@@ -4,7 +4,7 @@ SMODS.Joker {
 	config = {extra = {discard_size = 1, hands_size = 1,}},
 	rarity = 2,
 	cost = 5,
-	unlocked = false,
+	unlocked = true,
 	discovered = false,
 	blueprint_compat = false,
     eternal_compat = true,

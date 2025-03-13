@@ -3,7 +3,7 @@ SMODS.Joker {
 	atlas = 'Jokerster_atlas', pos = {x = 2, y = 0},
 	rarity = 2,
 	cost = 5,
-	unlocked = false,
+	unlocked = true,
 	discovered = false,
 	blueprint_compat = false,
     eternal_compat = true,

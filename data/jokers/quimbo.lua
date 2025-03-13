@@ -4,7 +4,7 @@ SMODS.Joker {
 	config = {extra = {moneyquimbo = 5, odds = 5}},
 	rarity = 2,
 	cost = 5,
-	unlocked = false,
+	unlocked = true,
 	discovered = false,
 	blueprint_compat = false,
     eternal_compat = true,

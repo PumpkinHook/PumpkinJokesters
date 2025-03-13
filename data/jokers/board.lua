@@ -4,7 +4,7 @@ SMODS.Joker {
 	config = {extra = {boardmult = 3}}, 
 	rarity = 3,
 	cost = 5,
-	unlocked = false,
+	unlocked = true,
 	discovered = false,
 	blueprint_compat = false,
     eternal_compat = true,

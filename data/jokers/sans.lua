@@ -4,7 +4,7 @@ SMODS.Joker {
 	no_pool_flag = 'sans1',	
 	rarity = 1,
 	cost = 3,
-	unlocked = false,
+	unlocked = true,
 	discovered = false,
 	blueprint_compat = false,
     eternal_compat = false,
