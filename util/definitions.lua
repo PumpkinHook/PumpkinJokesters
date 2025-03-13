@@ -5,24 +5,26 @@ JOKE_UTIL.config = SMODS.current_mod.config
 JOKE_UTIL.ENABLED_JOKERS = {
 
 	-- Common
-	"furry",
-	"quimbo",
+	"sans",
+	"sans2",
+	"sans3",	
+
 	
 	-- Uncommon
+	"furry",
+	"quimbo",
 	"katamari",
 	"imposter",	
 	"missing_joker",
 	"ultra_eye",
+	"battery",
 
 
 	-- Rare
 	"scrooge", -- Doesnt work with talisman
 	"faceless", -- needs fixing
-	"battery",
 	"board",
-	"sans",
-	"sans2",
-	"sans3",	
+
 	
 	-- Legendary
 	"pumpkin_legendary",

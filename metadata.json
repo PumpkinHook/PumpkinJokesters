@@ -2,7 +2,7 @@
 	"id": "jokester",
 	"name": "Pumpkin's Jokersters",
 	"prefix": "jokester",
-	"author": ["PumpkinHook"],
+	"author": ["PumpkinHook", "Wild"],
 	"description": "Glamour on the streets, Jimbo in the sheets."
 	"main_file": "jokesters.lua",
 	"badge_colour": "8b61ad",

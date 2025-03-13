@@ -2,7 +2,7 @@
 --- MOD_NAME: Pumpkin's Jokesters
 --- MOD_ID: jokester
 --- PREFIX: jokester
---- MOD_AUTHOR: [PumpkinHook]
+--- MOD_AUTHOR: [PumpkinHook, Wild]
 --- MOD_DESCRIPTION: Glamour on the streets, Jimbo in the sheets.
 --- VERSION: 0.1.5
 
