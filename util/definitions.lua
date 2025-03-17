@@ -24,6 +24,7 @@ JOKE_UTIL.ENABLED_JOKERS = {
 	"scrooge", -- Doesnt work with talisman
 	"faceless", -- needs fixing
 	"board",
+	"BB",
 
 	
 	-- Legendary
