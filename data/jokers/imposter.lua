@@ -2,7 +2,7 @@ SMODS.Joker {
 	key = 'imposter',
 	atlas = 'Jokerster_atlas', pos = {x = 0, y = 1},
 	no_pool_flag = 'imposter_dead',
-	config = {extra ={xmult = 2, odds = 5}},
+	config = {extra ={xmult = 2, odds = 10}},
 	rarity = 2,
 	cost = 5,
 	unlocked = true,
