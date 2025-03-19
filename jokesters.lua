@@ -5,7 +5,7 @@
 --- MOD_AUTHOR: [PumpkinHook, Wild]
 --- MOD_DESCRIPTION: Glamour on the streets, Jimbo in the sheets.
 --- VERSION: 0.1.7
-
+--- CONFLICTS: [Talisman (<<2.1.0~dev)]
 
 ----------------------------------------------
 ------------MOD CODE -------------------------
