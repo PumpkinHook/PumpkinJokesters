@@ -9,7 +9,7 @@ SMODS.Joker {
 	blueprint_compat = true,
     eternal_compat = true,
     perishable_compat = true,
-	
+
 	loc_vars = function(self, info_queue, card)
 		return {vars = {card.ability.extra.discard_size, card.ability.extra.hands_size}}
 	end,

@@ -19,6 +19,13 @@ SMODS.Atlas{ -- Joker Atlas
 	px = 71, py = 95
 }
 
+-- Registers Joker atlas
+SMODS.Atlas{ -- Joker Atlas
+	key = 'JokerPH_atlas',
+	path = 'Jokers_ph.png',
+	px = 71, py = 95
+}
+
 SMODS.Atlas{
 	key = 'Jokester_pack',
 	path = 'boosterpacks.png',

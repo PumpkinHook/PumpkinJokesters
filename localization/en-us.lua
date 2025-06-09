@@ -123,6 +123,12 @@ return {
 				text = {
 				},
 			},
+			j_jokester_testprint = {
+				name = "testprint",
+				text = {
+				'retrigger joker to {C:attention}left{} 1 time',
+				},
+			},
 		}
 	},
 		

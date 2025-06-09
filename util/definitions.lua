@@ -30,8 +30,13 @@ JOKE_UTIL.ENABLED_JOKERS = {
 	-- Legendary
 	"pumpkin_legendary",
 	"wild_legendary",
+	
+	--"testprint",
 }
 
 JOKE_UTIL.ENABLED_PACKS = {
 	--"experimented",
+	"JokesterBundle",
+	"JokesterBundle1",
+	"JokesterBundle2",
 }

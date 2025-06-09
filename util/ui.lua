@@ -1,8 +1,6 @@
 -- Create Config tab
 SMODS.current_mod.config_tab = function()
-	return {
-	n = G.UIT.ROOT, 
-	config = { align = 'cm', padding = 0.05, emboss = 0.05, r = 0.1, colour = G.C.BLACK }, 
+	return {n = G.UIT.ROOT, config = { align = 'cm', padding = 0.05, emboss = 0.05, r = 0.1, colour = G.C.BLACK }, 
 	nodes = {
 		{
 				n = G.UIT.R,
@@ -11,6 +9,7 @@ SMODS.current_mod.config_tab = function()
 				{ n = G.UIT.T, config = { text = localize('jokester_ui_requires_restart'), colour = G.C.RED, scale = 0.5 } }
 				}
 			},
+			
 		}
 	}
 end
