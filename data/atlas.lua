@@ -18,6 +18,12 @@ SMODS.Atlas{ -- Joker Atlas
 	path = 'Jokers_Legendary.png',
 	px = 71, py = 95
 }
+-- Registers Joker "Sans" atlas
+SMODS.Atlas{
+	key = 'sans_atlas',
+	path = 'sans.png',
+	px = 71, py = 95
+}
 
 -- Registers Joker atlas
 SMODS.Atlas{ -- Joker Atlas

@@ -1,6 +1,12 @@
+SMODS.Atlas{
+	key = 'missingjoker_atlas',
+	path = 'missingjoker.png',
+	px = 71, py = 95
+}
+
 SMODS.Joker {
 	key = 'missingjoker',
-	atlas = 'Jokerster_atlas', pos = {x = 0, y = 0}, -- Assign atlas and position
+	atlas = 'missingjoker_atlas', pos = {x = 0, y = 0}, -- Assign atlas and position
 	config = {extra = {mult = 0, mult_mod = 5, discards = 10, missingtex_discards = 10}}, -- Set up config varibles for the Joker, easy set up to help balance the card later
 	rarity=2, -- Card rarity
 	cost = 6, -- Card cost

@@ -1,6 +1,12 @@
+SMODS.Atlas{
+	key = 'battery_atlas',
+	path = 'Battery.png',
+	px = 71, py = 95
+}
+
 SMODS.Joker {
 	key = 'battery',
-	atlas = 'Jokerster_atlas', pos = {x = 3, y = 1},
+	atlas = 'battery_atlas', pos = {x = 0, y = 0},
 	config = {extra = {discard_size = 1, hands_size = 1,}},
 	rarity = 2,
 	cost = 5,

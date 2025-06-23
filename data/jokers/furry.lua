@@ -1,6 +1,12 @@
+SMODS.Atlas{
+	key = 'Furry_atlas',
+	path = 'Furry.png',
+	px = 71, py = 95
+}
+
 SMODS.Joker {
 	key = 'furry',
-	atlas = 'Jokerster_atlas', pos = {x = 2, y = 0},
+	atlas = 'Furry_atlas', pos = {x = 0, y = 0},
 	rarity = 2,
 	cost = 5,
 	unlocked = true,

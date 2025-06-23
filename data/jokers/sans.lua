@@ -1,6 +1,6 @@
 SMODS.Joker {
 	key = 'sans',
-	atlas = 'Jokerster_atlas', pos = {x = 0, y = 2},
+	atlas = 'sans_atlas', pos = {x = 0, y = 0},
 	no_pool_flag = 'sans1',	
 	rarity = 1,
 	cost = 3,

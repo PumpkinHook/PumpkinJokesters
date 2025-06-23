@@ -1,6 +1,12 @@
+SMODS.Atlas{
+	key = 'ultraeye_atlas',
+	path = 'ultraeye.png',
+	px = 71, py = 95
+}
+
 SMODS.Joker {
 	key = 'ultra_eye',
-	atlas = 'Jokerster_atlas', pos = {x = 1, y = 1}, -- Assign atlas and position
+	atlas = 'ultraeye_atlas', pos = {x = 0, y = 0}, -- Assign atlas and position
 	config = {extra = {poker_hand = 'High Card', retrigger = 2, xmult = 2}}, 
 	rarity = 2, -- Card rarity
 	cost = 5, -- Card cost

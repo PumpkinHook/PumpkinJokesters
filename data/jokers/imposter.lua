@@ -1,6 +1,12 @@
+SMODS.Atlas{
+	key = 'Imposter_atlas',
+	path = 'Imposter.png',
+	px = 71, py = 95
+}
+
 SMODS.Joker {
 	key = 'imposter',
-	atlas = 'Jokerster_atlas', pos = {x = 0, y = 1},
+	atlas = 'Imposter_atlas', pos = {x = 0, y = 0},
 	no_pool_flag = 'imposter_dead',
 	config = {extra ={xmult = 2, odds = 10}},
 	rarity = 2,

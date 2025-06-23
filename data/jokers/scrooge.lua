@@ -1,6 +1,12 @@
+SMODS.Atlas{
+	key = 'Scrooge_atlas',
+	path = 'Scrooge.png',
+	px = 71, py = 95
+}
+
 SMODS.Joker {
 	key = 'scrooge',
-	atlas = 'Jokerster_atlas', pos = {x = 1, y = 0}, -- Assign atlas and position
+	atlas = 'Scrooge_atlas', pos = {x = 0, y = 0}, -- Assign atlas and position
 	config = {extra = {cash = 15, retiggercount = 1}}, 
 	rarity=3, -- Card rarity
 	cost = 10, -- Card cost

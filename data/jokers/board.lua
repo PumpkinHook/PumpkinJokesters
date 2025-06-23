@@ -1,6 +1,12 @@
+SMODS.Atlas{
+	key = 'Board_atlas',
+	path = 'Board.png',
+	px = 71, py = 95
+}
+
 SMODS.Joker {
 	key = 'board',
-	atlas = 'Jokerster_legendary', pos = {x = 2, y = 0}, soul_pos = {x = 2, y = 1},
+	atlas = 'Board_atlas', pos = {x = 0, y = 0}, soul_pos = {x = 0, y = 1},
 	config = {extra = {boardmult = 3}}, 
 	rarity = 3,
 	cost = 5,

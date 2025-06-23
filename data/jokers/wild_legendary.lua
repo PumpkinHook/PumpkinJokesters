@@ -1,6 +1,12 @@
+SMODS.Atlas{
+	key = 'WildLegendary_atlas',
+	path = 'Wild_Legendary.png',
+	px = 71, py = 95
+}
+
 SMODS.Joker {
 	key = 'wild_legendary',
-	atlas = 'Jokerster_legendary', pos = {x = 1, y = 0}, soul_pos = {x = 1, y = 1},
+	atlas = 'WildLegendary_atlas', pos = {x = 0, y = 0}, soul_pos = {x = 0, y = 1},
 	config = {extra = {xmult_mod = 4,}},
 	rarity = 4,
 	cost = 20,

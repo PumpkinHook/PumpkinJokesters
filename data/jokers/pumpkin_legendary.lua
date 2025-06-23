@@ -1,6 +1,12 @@
+SMODS.Atlas{
+	key = 'PumpkinLegendary_atlas',
+	path = 'Pumpkin_Legendary.png',
+	px = 71, py = 95
+}
+
 SMODS.Joker {
 	key = 'pumpkin_legendary',
-	atlas = 'Jokerster_legendary', pos = {x = 0, y = 0}, soul_pos = {x = 0, y = 1},
+	atlas = 'PumpkinLegendary_atlas', pos = {x = 0, y = 0}, soul_pos = {x = 0, y = 1},
 	rarity = 4,
 	cost = 20,
 	unlocked = false,

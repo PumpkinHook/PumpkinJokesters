@@ -1,6 +1,12 @@
+SMODS.Atlas{
+	key = 'Katamari_atlas',
+	path = 'Katamari.png',
+	px = 71, py = 95
+}
+
 SMODS.Joker {
 	key = 'katamari',
-	atlas = 'Jokerster_atlas', pos = {x = 4, y = 1}, -- Assign atlas and position
+	atlas = 'Katamari_atlas', pos = {x = 0, y = 0},
 	config = {extra = {chipsbase = 20, multbase = 4, chipstack = 0, multstack = 0}}, 
 	rarity=2, -- Card rarity
 	cost = 10, -- Card cost

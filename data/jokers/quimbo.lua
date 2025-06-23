@@ -1,6 +1,13 @@
+SMODS.Atlas{
+	key = 'quimbo_atlas',
+	path = 'Quimbo.png',
+	px = 71, py = 95
+}
+
+
 SMODS.Joker {
 	key = 'quimbo',
-	atlas = 'Jokerster_atlas', pos = {x = 4, y = 0},
+	atlas = 'quimbo_atlas', pos = {x = 0, y = 0},
 	config = {extra = {moneyquimbo = 5, odds = 5}},
 	rarity = 2,
 	cost = 5,

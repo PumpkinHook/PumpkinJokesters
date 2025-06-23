@@ -1,6 +1,12 @@
+SMODS.Atlas{
+	key = 'Faceless_atlas',
+	path = 'Faceless.png',
+	px = 71, py = 95
+}
+
 SMODS.Joker {
 	key = 'faceless',
-	atlas = 'Jokerster_atlas', pos = {x = 3, y = 0},
+	atlas = 'Faceless_atlas', pos = {x = 0, y = 0},
 	config = {extra = {faceMult = 4, faceCash = 10}}, 
 	rarity = 3,
 	cost = 8,
