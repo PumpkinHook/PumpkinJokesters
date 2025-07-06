@@ -18,7 +18,7 @@ JOKE_UTIL.ENABLED_JOKERS = {
 	"missing_joker",
 	"ultra_eye",
 	"battery",
-
+	"rushed",
 
 	-- Rare
 	"scrooge", -- Doesnt work with talisman

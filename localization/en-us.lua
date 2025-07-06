@@ -129,6 +129,12 @@ return {
 				'retrigger joker to {C:attention}left{} 1 time',
 				},
 			},
+			j_jokester_rushed = {
+				name = "Rushed Joker",
+				text = {
+				'{C:green}#1# in #2#{}',
+				},
+			},
 		}
 	},
 		
